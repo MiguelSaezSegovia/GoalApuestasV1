@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoalApuestasV1</string>
+    <string name="hola">HOLA</string>
+    <string name="user_incorrect">User incorrect</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t Have an Account?  Sign Up</string>
+    <string name="action_sign_in">Sing up</string>
+    <string name="user_name">User name</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="error">Error</string>
+    <string name="complete_all_the_fields">You must fill all the fields</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="help">if you need help click here</string>
+
+</resources>
+
